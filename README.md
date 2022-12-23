@@ -118,4 +118,4 @@ This project is structured from a diagnostic exam for ReactJS. All the concepts 
 
 ## License
 
-API Backend Node.js is [MIT licensed](./LICENSE)
+Simple React Calculator is [MIT licensed](./LICENSE)
