@@ -1,4 +1,4 @@
-# [Simple React Calculator](https://github.com/almoratalla/simple-react-calculator)
+# [Simple React Calculator](https://almoratalla.github.io/projects/learning/simple-react-calculator/)
 
 > A simple calculator using ReactJS
 
@@ -7,6 +7,7 @@
 -   [Simple React Calculator](#simple-react-calculator)
     -   [Table of contents](#table-of-contents)
     -   [Overview](#overview)
+    -   [Live](#live)
     -   [Features](#features)
     -   [Demo](#demo)
     -   [Tech Stack](#tech-stack)
@@ -39,6 +40,10 @@ src
     ├───store
     └───utils
 ```
+
+## Live
+
+> See [simple react calculator](https://almoratalla.github.io/projects/learning/simple-react-calculator/) live.
 
 ## Features
 
